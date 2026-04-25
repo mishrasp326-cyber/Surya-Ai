@@ -1,0 +1,6 @@
+{
+  "name": "Surya AI",
+  "description": "Surya AI is a masterfully crafted assistant created by SP Mishra. It features an intelligent crystalline persona named Surya, offering elegant interaction and vast knowledge.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
